@@ -1,7 +1,7 @@
 # Beat Mix
 
-This is a Codecademy project. It has been done for the "Create a Back-End App with JavaScript" skill path.
-
+This is a Codecademy project. It has been done for the "Create a Back-End App with JavaScript" skill path.     
+Link to the instructions: https://www.codecademy.com/paths/create-a-back-end-app-with-javascript/tracks/bapi-javascript-arrays-loops-and-iterators/modules/project-beat-mix/informationals/bapi-p2-beat-mix    
 Link to the project: https://mariechanaron.github.io/beat-mix/
 
 ## Project Overview
